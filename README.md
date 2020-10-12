@@ -14,8 +14,9 @@ Dit scipt is verantwoordelijk voor het automatisch overschrijven van de Siemens 
 
 ## Na de automatisering
 Wanneer de automatisering is afgerond, krijgt u hier een bericht van te zien. Vervolgens kunt u het bestand 'Planning Jobs + Capaciteit 2020.xlsx' ophalen volgens de volgende stappen:
+
     1. Navigeer naar de map 'MOS planning.'
     2. Klik op het lege vierkantje dat voor de naar van het bestand staat.
     3. Klik op 'Downloaden' (in de nieuwe rij opties voor mogelijke acties boven aan het scherm).
-    
+
 Nadat u het bestand geeft gedownload kunt u de browser volledig sluiten.
