@@ -1,7 +1,7 @@
 # Project-MOS
 Hier vind u de handleiding voor het auotmatisch overschrijven van de Siemens planning naar de MOS planning. Deze handleiding is ook te vinden in de bestanden 'Handleiding' en 'README.md'.
 
-Klik op onderstaande link om door te gaan naar de omgeving waar de automatisering uitgevoerd kan worden.
+Klik op onderstaand icoon met 'launch binder' om door te gaan naar de omgeving waar de automatisering uitgevoerd kan worden.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cwend-iam/MOS/main)
 
