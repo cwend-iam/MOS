@@ -1,8 +1,9 @@
+# Project-MOS
+Hier vind u de handleiding voor het auotmatisch overschrijven van de Siemens planning naar de MOS planning. Deze handleiding is ook te vinden in de bestanden 'Handleiding' en 'README.md'.
+Klik op onderstaande link om door te gaan naar de omgeving waar de automatisering uitgevoerd kan worden.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cwend-iam/MOS/main)
 
-# Project-MOS
- The repo for the development of an automatisation for a project of Croonwolter&dros
- 
 # MOS planning overschrijven
 Dit scipt is verantwoordelijk voor het automatisch overschrijven van de Siemens planning naar de project planning. Om gebruik te maken deze automatisering hoeft u niets aan te passen in dit script, maar wordt er wel gevraagd planningen te upload. Hoe u dat moet doen wordt hieronder uitgelegd. 
 
