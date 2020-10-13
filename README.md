@@ -14,7 +14,9 @@ Dit scipt is verantwoordelijk voor het automatisch overschrijven van de Siemens 
     3. Naviveer vervolgens naar de map 'MOS planning.'
     4. Upload het document 'Planning Jobs + Capaciteit 2020.xlsx' volgens de wijze uit stap 2.
     5. Wanneer alle documenten geüpload zijn, kunt u de automatisering (run.ipynb) starten door uit het 
-       dropdown menu 'Cell' (in de balk met de opties 'File' enz.) de optie 'Run All' te selecteren. 
+       dropdown menu 'Kernel' (in de balk met de opties 'File' enz.) de optie 'Restart & Run All' te selecteren (zie onderstaande afbeelding). 
+ 
+![alt text](https://i.stack.imgur.com/neKoy.png)
 
 ## Na de automatisering
 Wanneer de automatisering is afgerond, krijgt u hier een bericht van te zien. Vervolgens kunt u het bestand 'Planning Jobs + Capaciteit 2020.xlsx' ophalen volgens de volgende stappen:
